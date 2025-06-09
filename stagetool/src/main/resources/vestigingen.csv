@@ -1,0 +1,11 @@
+id,naam,bedrijf_id,hoofdzetel
+1,"Hoofdkantoor TechSolutions",1,1
+2,"Bijkantoor TechSolutions",1,0
+3,"Hoofdkantoor DataCorp",2,1
+4,"Bijkantoor DataCorp",2,0
+5,"Hoofdkantoor WebInnovate",3,1
+6,"Bijkantoor WebInnovate",3,0
+7,"Hoofdkantoor NetworkSystems",4,1
+8,"Bijkantoor NetworkSystems",4,0
+9,"Hoofdkantoor CloudServices",5,1
+10,"Bijkantoor CloudServices",5,0

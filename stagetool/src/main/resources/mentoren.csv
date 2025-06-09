@@ -1,0 +1,7 @@
+id,voornaam,familienaam,email,wachtwoord,vestiging_id
+4,Jan,Peeters,jan.peeters@techsolutions.be,password123,1
+5,Els,Janssens,els.janssens@datacorp.be,password123,3
+19,hj,ghj,ghj,ghj,4
+6,Bart,Willems,bart.willems@webinnovate.be,password123,5
+7,Sophie,Maes,sophie.maes@networksystems.be,password123,7
+8,Tom,Wouters,tom.wouters@cloudservices.be,password123,9
