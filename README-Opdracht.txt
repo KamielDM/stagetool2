@@ -32,7 +32,7 @@ Stappenplan IntelliJ naar GIT.pdf
 Maak voor je databaseverbinding in je code gebruik van volgende gegevens:
 
 Gebruiker: dbprog
-Wachtwoord: Azerty123!
+Wachtwoord: Azerty123
 Database: stagetool
 Host: localhost
 Poort: 3306
